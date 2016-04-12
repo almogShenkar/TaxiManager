@@ -1,0 +1,14 @@
+#id:2,status:good,power:100,verion:1.0
+2,good,100,1.0
+#wheel
+5,15
+#wheel
+5,15
+#wheel
+5,15
+#wheel
+5,15
+#Brain
+2.0
+#Sensors
+Camera-1,gps,Camera-2

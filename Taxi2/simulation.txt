@@ -1,0 +1,8 @@
+#operation=1, taxiId=1,Passenger location:d5, dest position: d8
+1,1,D5,D8
+1,1,D5,C8
+1,2,H3,A5
+1,2,H2,J5
+1,2,D8,E9
+1,1,J5,H2
+1,1,C8,B3

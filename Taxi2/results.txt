@@ -1,0 +1,125 @@
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at D5
+option1: EEESESWSS
+option2: EEESESEESSWWW
+option3: EEESESWSS
+
+This is the way to Customer Destiny D8
+option1: EEESSSWWW
+option2: EEEEESSWWSWWW
+option3: EEESSSWWW
+
+id:1,km:180,health: 82,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at D5
+option1: EEEWWNNWN
+option2: EEESEWWWNNNWN
+option3: EEEWWNNWN
+
+This is the way to Customer Destiny C8
+option1: EEESSSWWWW
+option2: EEEEESSWWSWWWW
+option3: EEESSSWWWW
+
+id:1,km:370,health: 63,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at H3
+option1: 
+This is the way to Customer Destiny A5
+option1: EEESSSSWWW
+option2: EEESESESSWWWWW
+option3: EEESSSSWWW
+
+id:2,km:100,health: 90,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at H2
+option1: EEEEEENNNE
+option2: EEEEEEEEEWNNNW
+option3: EEEEEENNNE
+
+This is the way to Customer Destiny J5
+option1: EESSS
+option2: EESSS
+option3: EESSS
+
+id:2,km:250,health: 75,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at D8
+option1: SSWWWSWWW
+option2: SSSSSWWWWNWWN
+option3: SSWWWSWWW
+
+This is the way to Customer Destiny E9
+option1: EEESEEWWWW
+option2: EEESEEESWWWWNW
+option3: EEESEEWWWW
+
+id:2,km:440,health: 56,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at J5
+option1: 
+This is the way to Customer Destiny H2
+option1: 
+id:1,km:370,health: 63,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at C8
+option1: 
+This is the way to Customer Destiny B3
+option1: 
+id:1,km:370,health: 63,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,

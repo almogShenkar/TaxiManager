@@ -1,0 +1,40 @@
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at D5
+option1: EEESESEEEEESSWWWWWW
+option2: EEESESEESSWWW
+option3: EEESESWSS
+
+This is the way to Customer Destiny D8
+option1: EEEEEESSSSSWWWWWWNN
+option2: EEEEESSWWSWWW
+option3: EEESSSWWW
+
+id:1,km:380,health: 62,<x,y>:4,8,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
+
+N=NORTH W=WEST S=SOUTH E=EAST 
+
+This is the way to Customer at H3
+option1: EEESESEEE
+option2: EEESESEEE
+option3: EEESESEEE
+
+This is the way to Customer Destiny A5
+option1: EESSSSSWNWWWWNWWWWN
+option2: EESSWWWWWWWWW
+option3: WSSWWWWWW
+
+id:2,km:280,health: 72,<x,y>:1,5,Engine: good,100,1 
+front left:(5,15)
+front right:(5,15)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,
